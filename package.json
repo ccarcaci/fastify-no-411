@@ -1,0 +1,14 @@
+{
+  "name": "fastify-411",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/fastify-411.js",
+  "scripts": {
+    "start": "node src/fastify-411.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.10.2"
+  }
+}
